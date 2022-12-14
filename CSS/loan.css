@@ -125,8 +125,8 @@ body{
     display: none;
     
 }
-.header .links:hover ul{
-    display: block;
+.showLinks{
+    display: block !important;
 }
 .header .links ul::before{
     content: "";
